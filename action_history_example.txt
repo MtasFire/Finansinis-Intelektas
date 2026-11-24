@@ -1,0 +1,186 @@
+Successfully connected to Alpaca Paper Trading.
+Status: AccountStatus.ACTIVE | Balance: 100000 USD
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 1
+Balance: 100000 USD
+Buying power: 200000 USD
+Market open: True
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 2
+Stock symbol: AAPL
+Update interval (seconds): 1
+Number of updates: 10
+IEX data feed - limited US market coverage.
+2026-11-24 16:10:32.786886+00:00 | AAPL | 351.51 USD | Data age: 2.7 s
+2026-11-24 16:10:32.786886+00:00 | AAPL | 351.51 USD | Data age: 3.9 s
+2026-11-24 16:10:32.786886+00:00 | AAPL | 351.51 USD | Data age: 5.0 s
+2026-11-24 16:10:32.786886+00:00 | AAPL | 351.51 USD | Data age: 6.1 s
+2026-11-24 16:10:32.786886+00:00 | AAPL | 351.51 USD | Data age: 7.2 s
+2026-11-24 16:10:41.064264+00:00 | AAPL | 351.44 USD | Data age: 0.1 s
+2026-11-24 16:10:42.470599+00:00 | AAPL | 351.47 USD | Data age: -0.2 s
+2026-11-24 16:10:42.470599+00:00 | AAPL | 351.47 USD | Data age: 0.9 s
+2026-11-24 16:10:45.412317+00:00 | AAPL | 351.32 USD | Data age: -0.9 s
+2026-11-24 16:10:45.750753+00:00 | AAPL | 351.34 USD | Data age: -0.1 s
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 4
+Stock symbol: AAPL
+Number of shares: 5
+Order side (buy/sell): buy
+Broker response received:
+--------------------------------------------------
+Order ID: c55cbdd2-96f0-4ace-bfae-dabc3a94024d
+Client order ID: dc7a08dc-f9ad-4e78-a570-28ee5ac1fd92
+Symbol: AAPL | Type: market
+Side: buy | Quantity: 5
+Status: pending_new | Filled quantity: 0
+Limit price: None
+Average execution price: None
+Submitted at: 2026-11-24 16:10:58.973076+00:00
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 8
+No orders found.
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 7
+--------------------------------------------------
+Order ID: c55cbdd2-96f0-4ace-bfae-dabc3a94024d
+Client order ID: dc7a08dc-f9ad-4e78-a570-28ee5ac1fd92
+Symbol: AAPL | Type: market
+Side: buy | Quantity: 5
+Status: filled | Filled quantity: 5
+Limit price: None
+Average execution price: 351.486
+Submitted at: 2026-11-24 16:10:58.976652+00:00
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: `
+Invalid option.
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 1
+Balance: 98242.57 USD
+Buying power: 198242.84 USD
+Market open: True
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 5
+Stock symbol: AAPL
+Number of shares: 5
+Order side (buy/sell): sell
+Limit price (USD): 0
+Error: Value must be positive and finite.
+
+===== ALPACA PAPER TRADING =====
+1. Account information
+2. Real-time market data
+3. Historical market data
+4. Submit market order
+5. Submit limit order
+6. Cancel order
+7. View all orders
+8. View open orders
+9. Check specific order status
+10. Save action history to TXT
+0. Exit program
+
+Select an option: 10
